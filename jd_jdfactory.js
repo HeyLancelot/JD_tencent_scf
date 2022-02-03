@@ -52,7 +52,7 @@ if ($.isNode()) {
 }
 let wantProduct = ``;//心仪商品名称
 const JD_API_HOST = 'https://api.m.jd.com/client.action';
-const inviteCodes = ['T0225KkcRUxL9FKDJh7ylvMLcACjVWnYaS5kRrbA@T0225KkcRx0Q_AaCdRr1xf8DIQCjVWnYaS5kRrbA@T0225KkcRksZpgDSIBj3xvADdQCjVWnYaS5kRrbA@T018v_52Qxge81HeJB2b1ACjVWnYaS5kRrbA@T0205KkcPFd_vD2uSkCi3YhXCjVWnYaS5kRrbA@T018v_hzQhwZ8FbUIRib1ACjVWnYaS5kRrbA'];
+const inviteCodes = ['T0205KkcO3R4qiGMYG-h14V8CjVWnYaS5kRrbA@T0225KkcRE0Q9lfUJBKgkqRZcQCjVWnYaS5kRrbA@T0225KkcRRlN8AXUJk_3kf8CdwCjVWnYaS5kRrbA'];
 let myInviteCode;
 $.newShareCode = [];
 const ZLC = !(process.env.JD_JOIN_ZLC && process.env.JD_JOIN_ZLC === 'false')
